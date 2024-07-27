@@ -1,0 +1,11 @@
+.hero-image {
+    position: relative;
+    margin: 20px ;
+    border:20px;
+
+  }
+
+  .hero-image img {
+    width: 100%;
+    height: 50%;
+  }

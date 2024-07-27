@@ -1,0 +1,16 @@
+.retreat-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    width: 30%; /* Adjust width for cards */
+    margin-bottom: 20px;
+  }
+
+  .retreat-card img {
+    width: 100%;
+    height: 40%;
+  }
+
+  .retreat-details {
+    padding: 2px;
+  }

@@ -1,0 +1,11 @@
+.filter-section {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+
+  .filter-section input,
+  .filter-section select {
+    padding: 10px;
+    font-size: 16px;
+  }

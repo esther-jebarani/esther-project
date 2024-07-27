@@ -1,0 +1,15 @@
+.pagination {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+
+  .prev-button,
+  .next-button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
